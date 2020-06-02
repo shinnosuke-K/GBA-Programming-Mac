@@ -35,7 +35,7 @@ CentOSとUbuntuについては [document](https://github.com/shinnosuke-K/GBA-Pr
 
 他には、Spotlight検索を起動し、terminal.app と入力することでも起動できます。
 
-> 演習実験はターミナルを使って行うので、Dockに登録しておいてください。
+> これ以降の開発ではターミナルを使って行うので、Dockに登録することをおすすめします。
 
 <img src="document/img/finder.png" width=70%>
 
