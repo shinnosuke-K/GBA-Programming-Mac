@@ -37,7 +37,7 @@ CentOSとUbuntuについては [document](https://github.com/shinnosuke-K/GBA-Pr
 
 > 演習実験はターミナルを使って行うので、Dockに登録しておいてください。
 
-<img src="document/img/スクリーンショット%202020-05-15%2019.15.21.png" width=70%>
+<img src="document/img/finder.png" width=70%>
 
 ### **インストール**
 
@@ -56,7 +56,7 @@ cd $HOME/Desktop/C-Programming-4-Mac && bash script/init.sh
 
 （インストールに時間がかかるかもしれません）
 
-<img src="document/img/homebrew_install_02.png" width=60%>
+<img src="document/img/homebrew_install.png" width=60%>
 
 インストールが完了したら、以下のコマンドをコピペして実行
 
@@ -87,7 +87,7 @@ VBAはVisualBoyAdvanceというGBA（ゲームボーイアドバンス）をPC�
 
 開くとこんな画面が出てくると思います。
 
-<img src="document/img/スクリーンショット%202020-05-16%2013.02.49.png" width=40%>
+<img src="document/img/vba-screen.png" width=40%>
 
 開いたら、メニューバーの File → Open を選択
 
