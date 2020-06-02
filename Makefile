@@ -13,5 +13,5 @@ $(NAME).mb: $(NAME).out
 	arm-none-eabi-objcopy -O binary $(NAME).out $(NAME).mb
 
 clean:
-	rm -f *.o *.s *.out 
+	rm -f *.o *.s *.out
 

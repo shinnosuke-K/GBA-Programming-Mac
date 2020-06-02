@@ -8,4 +8,4 @@ if [ ! $? = 0 ]; then
 fi
 
 brew tap ArmMbed/homebrew-formulae
-brew install gcc-arm-none-eabi
+brew install arm-none-eabi-gcc
